@@ -17,7 +17,7 @@ https://github.com/TechShreyash/AnimeDexApi/assets/82265247/da97a941-4f46-42ec-b
 
 ## Deploy To Cloudflare (Hard Way)
 
-- Install Wrangler CLI : https://developers.cloudflare.com/workers/wrangler/install-and-update/
+- Install Wrangler CLI: https://developers.cloudflare.com/workers/wrangler/install-and-update/
 
 - Install Nodejs And Npm
 
